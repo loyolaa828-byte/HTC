@@ -1,6 +1,7 @@
 <p align="center">
-<img src="assets/logo.png" width="200" />
+  <img src="HTC.png" width="200" />
 </p>
+
 
 About
 Holy Trinity Coin (HTC) is an ERC‑20 token deployed on the Ethereum Sepolia test network.
