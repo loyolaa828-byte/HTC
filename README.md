@@ -1,4 +1,3 @@
-Holy Trinity Coin (HTC)
 <p align="center">
 <img src="assets/logo.png" width="200" />
 </p>
